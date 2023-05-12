@@ -24,7 +24,7 @@ To install the project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Moabbasi378/BestEats.git
+git clone https://github.com/Moabbasi378/cloud.git
 ```
 
 2. Navigate to the project directory and install the dependencies:
